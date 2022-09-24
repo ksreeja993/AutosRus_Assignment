@@ -28,8 +28,13 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 ![t-test](./Images/Image4.png)
 
 ## Deliverable4:
+## Study Design: MechaCar vs Competition
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 * An additional metric is horsepower, a smaller engine size results in a higher mile per gallon.
 
 * The null hypothesis would be there is no statistical difference while the alternate hypothesis is a difference.
+
+* T-test can be used to test the hypothesis.
+
+* the data used would be the MechaCar csv file. 
